@@ -4,7 +4,7 @@
             "description": "Helen's debit account",
 		"balance": 5000
         }
-    ]
+    ],
 
 	"transactions": [
         {
@@ -28,6 +28,6 @@
             "notes": "",
             "settled": "2015-08-24T16:15:03Z",
             "category": "eating_out"
-        },
+        }
     ]
 }
