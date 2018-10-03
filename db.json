@@ -37,7 +37,7 @@
             "date": "2018-10-02T16:15:03Z",
             "description": "Tesco",
             "notes": "",
-            "category": "shopping"
+            "category": "groceries"
         },
         {
             "id": 5,
@@ -78,6 +78,22 @@
             "description": "Scott Logic",
             "notes": "Big bonus this month",
             "category": "general"
+        },
+        {
+            "id": 10,
+            "amount": -500,
+            "date": "2018-09-25T16:14:03Z",
+            "description": "Harley Davidson Motor Company Incorporated",
+            "notes": "Leased a bike",
+            "category": "travel"
+        },
+        {
+            "id": 11,
+            "amount": -35,
+            "date": "2018-09-23T16:14:03Z",
+            "description": "Fenwicks",
+            "notes": "New lamp",
+            "category": "shopping"
         }
     ]
 }
