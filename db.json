@@ -9,57 +9,73 @@
 	"transactions": [
         {
             "id": 1,
-            "amount": -510,
-            "date": "2015-08-22T12:20:18Z",
-            "description": "THE DE BEAUVOIR DELI C",
-            "notes": "Salmon sandwich",
-            "category": "eating_out"
+            "amount": -7.87,
+            "date": "2018-10-02T12:20:18Z",
+            "description": "Starbucks",
+            "notes": "Don't ask for sugar free syrup again",
+            "category": "general"
         },
         {
             "id": 2,
-            "amount": -679,
-            "date": "2015-08-23T16:15:03Z",
-            "description": "VUE BSL LTD",
-            "notes": "",
-            "category": "eating_out"
-        },
-        {
-            "id": 3,
-            "amount": -32.50,
-            "date": "2015-08-23T13:15:03Z",
-            "description": "WILKO",
-            "notes": "",
-            "category": "shopping"
-        },
-        {
-            "id": 4,
-            "amount": -500,
-            "date": "2015-08-23T16:15:03Z",
-            "description": "RENT",
+            "amount": -175.82,
+            "date": "2018-10-02T16:15:03Z",
+            "description": "American Express",
             "notes": "",
             "category": "bills"
         },
         {
-            "id": 5,
-            "amount": -10.50,
-            "date": "2015-07-23T16:15:03Z",
-            "description": "MORRISONS",
+            "id": 3,
+            "amount": -12.53,
+            "date": "2018-10-02T13:15:03Z",
+            "description": "Costa Coffee",
             "notes": "",
-            "category": "groceries"
+            "category": "general"
+        },
+        {
+            "id": 4,
+            "amount": -67.34,
+            "date": "2018-10-02T16:15:03Z",
+            "description": "Tesco",
+            "notes": "",
+            "category": "shopping"
+        },
+        {
+            "id": 5,
+            "amount": -54.12,
+            "date": "2018-10-01T16:15:03Z",
+            "description": "Hard Rock Cafe",
+            "notes": "",
+            "category": "eating_out"
         },
         {
             "id": 6,
-            "amount": -650,
-            "date": "2015-07-23T16:15:03Z",
-            "description": "AIR FRANCE",
-            "notes": "Flight to Japan",
-            "category": "travel"
+            "amount": -32.34,
+            "date": "2018-09-30T16:15:03Z",
+            "description": "Jamie's Italian",
+            "notes": "",
+            "category": "eating_out"
         },
         {
             "id": 7,
+            "amount": 12.14,
+            "date": "2018-09-30T16:15:03Z",
+            "description": "Burger King",
+            "notes": "Need to start bringing a packed lunch",
+            "category": "eating_out"
+        },
+        {
+            "id": 8,
+            "amount": 12.14,
+            "date": "2018-09-30T16:13:03Z",
+            "description": "Starbucks",
+            "notes": "",
+            "category": "general"
+        },
+        {
+            "id": 9,
             "amount": 2300,
-            "date": "2015-07-23T16:15:03Z",
-            "description": "YOUR WAGES",
+            "date": "2018-09-27T16:15:03Z",
+            "description": "Scott Logic",
             "notes": "Big bonus this month",
             "category": "general"
         }
