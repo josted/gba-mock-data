@@ -57,7 +57,7 @@
         },
         {
             "id": 7,
-            "amount": 12.14,
+            "amount": -12.14,
             "date": "2018-09-30T16:15:03Z",
             "description": "Burger King",
             "notes": "Need to start bringing a packed lunch",
@@ -65,7 +65,7 @@
         },
         {
             "id": 8,
-            "amount": 12.14,
+            "amount": -12.14,
             "date": "2018-09-30T16:13:03Z",
             "description": "Starbucks",
             "notes": "",
