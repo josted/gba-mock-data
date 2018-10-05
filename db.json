@@ -82,18 +82,66 @@
         {
             "id": 12,
             "amount": -35,
-            "date": "2018-09-23T16:14:03Z",
+            "date": "2018-09-25T16:13:03Z",
             "description": "Fenwick",
             "notes": "New lamp",
             "category": "shopping"
         },
         {
             "id": 13,
+            "amount": -25,
+            "date": "2018-09-25T16:12:03Z",
+            "description": "Theatre Royal",
+            "notes": "",
+            "category": "entertainment"
+        },
+        {
+            "id": 14,
+            "amount": -65.23,
+            "date": "2018-09-25T16:11:03Z",
+            "description": "Pets at Home",
+            "notes": "",
+            "category": "shopping"
+        },
+        {
+            "id": 15,
+            "amount": -25.60,
+            "date": "2018-09-25T16:10:03Z",
+            "description": "Wetherspoons",
+            "notes": "",
+            "category": "general"
+        },
+        {
+            "id": 16,
             "amount": -12.34,
             "date": "2018-09-21T16:14:03Z",
             "description": "ODEON Cinemas",
             "notes": "",
             "category": "entertainment"
+        },
+        {
+            "id": 17,
+            "amount": -699.99,
+            "date": "2018-08-21T15:14:03Z",
+            "description": "Air France",
+            "notes": "",
+            "category": "travel"
+        },
+        {
+            "id": 18,
+            "amount": -18.70,
+            "date": "2018-08-21T14:14:03Z",
+            "description": "Just Eat",
+            "notes": "",
+            "category": "eating_out"
+        },
+        {
+            "id": 19,
+            "amount": -45,
+            "date": "2018-07-21T12:14:03Z",
+            "description": "Build-a-Bear",
+            "notes": "",
+            "category": "shopping"
         }
     ]
 }
