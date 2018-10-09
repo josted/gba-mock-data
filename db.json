@@ -10,7 +10,7 @@
         {
             "id": 1,
             "amount": -7.87,
-            "date": "2018-10-02T12:20:18Z",
+            "date": "2018-10-09T12:20:18Z",
             "description": "Starbucks",
             "notes": "Don't ask for sugar free syrup again",
             "category": "general"
@@ -18,7 +18,7 @@
         {
             "id": 2,
             "amount": -175.82,
-            "date": "2018-10-02T16:15:03Z",
+            "date": "2018-10-08T16:15:03Z",
             "description": "American Express",
             "notes": "",
             "category": "bills"
